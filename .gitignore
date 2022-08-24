@@ -6,4 +6,8 @@ __pycache__
 !*.zip
 *.db
 *.csv 
+<<<<<<< HEAD
 *.xlsx
+=======
+*.xlsx
+>>>>>>> e660d58524948a8f07da4c9bf646c21bcae780f9
